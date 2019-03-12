@@ -30,3 +30,15 @@ button {
 .wraper {
   text-align: center;
 }
+iframe {
+}
+h2 {
+  font-size: 70px;
+  margin-top: 150px;
+  color: pink;
+  font-family: verdana;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
